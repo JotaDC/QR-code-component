@@ -21,8 +21,7 @@ Esta es una solución al [Desafío de componentes de código QR en Frontend Ment
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- URL: [Enlace en la Nube de Vercel](https://qr-code-component-five-steel.vercel.app/)
 
 ## My process
 
